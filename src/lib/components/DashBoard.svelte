@@ -53,7 +53,7 @@
 </script>
 
 <main>
-	<div class="flex flex-col gap-5">
+	<div class="flex flex-col gap-5 ml-4">
 		<div class="flex gap-10">
 			<div
 				class="bg-surface-600 p-8 flex flex-col justify-center items-center gap-5 rounded-lg shadow-xl"
